@@ -1,0 +1,1 @@
+Verzeichnis enthält die identifizierten / erfassten Anforderungen
